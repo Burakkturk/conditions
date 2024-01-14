@@ -58,11 +58,11 @@ const n2 = +prompt("Num2")
 const n3 = +prompt("Num3")
 
 
-if ( n1 > n2){
-    if(n1 > n3){
-        console.log("Biggest:", n1)
-    }
-}
+// if ( n1 > n2){
+//     if(n1 > n3){
+//         console.log("Biggest:", n1)
+//     }
+// }
 
 //? kosolların logical operatorler yardımıyla birletirilmesi
 if (n1 > n2 && n1 > n3) {
